@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ECall</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_province_city">Tinh - Thanh Pho</string>
+    <string name="label_district">Quan - Huyen - Thi Xa</string>
+
+    <string name="spinner_promt_city">City</string>
+
+    <string-array name="city_array_list">
+        <item>TP HCM</item>
+        <item>Ha Noi</item>
+        <item>Da Nang</item>
+        <item>Hai Phong</item>
+    </string-array>
+
+</resources>
